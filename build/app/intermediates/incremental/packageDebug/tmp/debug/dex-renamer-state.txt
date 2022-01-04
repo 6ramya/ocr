@@ -1,0 +1,4 @@
+#Mon Jan 03 17:54:09 IST 2022
+base.0=C\:\\Users\\ramya\\Desktop\\Flutter\\flutter_ocr\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
